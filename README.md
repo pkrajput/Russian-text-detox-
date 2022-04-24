@@ -1,1 +1,1 @@
-# Russian-text-detox-
+# Russian-text-detox project
